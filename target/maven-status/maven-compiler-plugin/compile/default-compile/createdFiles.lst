@@ -1,0 +1,9 @@
+com\example\demo\course\CourseController.class
+com\example\demo\course\CourseRepository.class
+com\example\demo\topic\TopicController.class
+com\example\demo\topic\TopicRepository.class
+com\example\demo\course\CourseServiceJPA.class
+com\example\demo\topic\TopicServiceJPA.class
+com\example\demo\SpringBootApp.class
+com\example\demo\course\Course.class
+com\example\demo\topic\Topic.class
